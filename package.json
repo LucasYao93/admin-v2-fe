@@ -1,0 +1,22 @@
+{
+  "name": "admin-v2-fe",
+  "version": "1.0.0",
+  "description": "MOOC react training course.",
+  "main": "app.js",
+  "scripts": {
+    "test": "Currently no test."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasYao93/admin-v2-fe.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Lucas Yao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasYao93/admin-v2-fe/issues"
+  },
+  "homepage": "https://github.com/LucasYao93/admin-v2-fe#readme"
+}
